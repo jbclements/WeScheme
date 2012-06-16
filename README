@@ -21,14 +21,14 @@ need to add the plugins into eclipse.
 
 To verify that the installation went ok, you may want to walk through the first few steps of:
 
-   http://code.google.com/appengine/docs/java/gettingstarted/
+   http://developers.google.com/appengine/docs/java/gettingstarted/
 
 and make sure you can run Appengine apps locally.
 
 
 3.  WeScheme also uses the Google Closure library:
 
-   http://code.google.com/closure/library/docs/gettingstarted.html
+   http://developers.google.com/closure/library/docs/gettingstarted.html
 
 to manage the dependencies between the JavaScript modules and do
 JavaScript minimization.  The WeScheme repository has a copy of the
